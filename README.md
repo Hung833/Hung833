@@ -20,4 +20,4 @@ I build optimized applications that bridge the gap between **Deep Learning** res
 
 ### 🌐 Let's connect
 *   **LinkedIn:** [/in/hung-nguyen833](https://www.linkedin.com/in/hung-nguyen833/)
-*   **Professional CV:** [View my CV](CV_Hung.pdf)
+*   **Professional CV:** [View my CV](CV_Hung833.pdf)
