@@ -19,5 +19,5 @@ I build optimized applications that bridge the gap between **Deep Learning** res
 *   **Global Mindset:** Native Vietnamese, studying in a **Japan-Oriented** environment.
 
 ### 🌐 Let's connect
-*   **LinkedIn:** [/in/hung-nguyen833/](https://www.linkedin.com/in/hung-nguyen833/)
+*   **LinkedIn:** [/in/hung-nguyen833](https://www.linkedin.com/in/hung-nguyen833/)
 *   **Professional CV:** [View my CV](CV_Hung.pdf)
