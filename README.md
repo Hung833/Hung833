@@ -3,9 +3,16 @@ I'm **Hung**, welcome to my GitHub!
 
 🎓 **3rd-Year Computer Science Student** at **HCMUT** (Japan-Oriented Program)
 
-🚀 **Software Engineering & AI/ML Intern Candidate**
+💻 **Software Engineering & AI/ML Intern Candidate**
 
-I build optimized applications that bridge the gap between **Deep Learning** research and **Mobile/Web** production. 
+I build optimized applications that bridge the gap between **Deep Learning** research and **Mobile/Web** production.
+
+### 🚀 Featured Project: 
+* **My project:** [AI Pulmonary Diagnostic Suite](https://github.com/Hung833/AI-Pulmonary-Diagnostic-Suite)
+* **Overview:** A dual-engine AI system for pneumonia detection with **92% Recall**.
+* **Tech Stack:** Python, TensorFlow, TFLite, Streamlit, Grad-CAM.
+* **Key Features:** Rapid triage (low-latency) and Explainable AI (Grad-CAM heatmaps).
+* **🌐 [Live Demo Access](https://ai-pulmonary-diagnostic-suite-sxvewn5lvevhh7ehe22v5p.streamlit.app/)**
 
 ### 🛠 Technical Toolbox
 * **Languages:** Python, C++, Java, JavaScript, Dart
