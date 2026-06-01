@@ -30,5 +30,5 @@ I build optimized applications that bridge the gap between **Deep Learning** res
 When I'm not training models or debugging pipelines, I'm building foundational skills to pursue my long-term vision of becoming a tech entrepreneur. To recharge and maintain high energy levels, I enjoy stepping away from the screen to explore the world through **photography**, staying active on the **badminton** court, or hitting the **gym**.
 
 ### 🌐 Let's connect
-* **LinkedIn:** [/in/nguyenthaihung833](https://www.linkedin.com/in/nguyenthaihung833/)
+* **LinkedIn:** [/in/nguyenthaihung2352440](https://www.linkedin.com/in/nguyenthaihung2352440/)
 * **Professional CV:** [View my CV](CV_Hung833.pdf)
